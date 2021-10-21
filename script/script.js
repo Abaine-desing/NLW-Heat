@@ -1,8 +1,8 @@
 const linksSocialMedia = {
-    github : "otavioaugusto1",
-    instagram : "otavio.gon",
-    facebook : "otavio.nogueira.752",
-    twitter : "OtvioAugustoGo9"
+    github : "Abaine-desing",
+    instagram : "frab_abaine",
+    facebook : "Francisco Gomes",
+    twitter : "Francisco Gomes"
     }
 
     function changeSocialMediaLinks(){
