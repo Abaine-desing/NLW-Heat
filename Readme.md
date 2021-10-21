@@ -7,11 +7,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
+- javaScript
 
 ## 💻 Projeto
 
-Nlw origin-2021 criando um crachá virtual.
+Nlw origin-2021 criando um crachá virtual
 
 ## 🔖 Layout
 
