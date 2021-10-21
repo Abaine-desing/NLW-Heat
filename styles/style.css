@@ -11,6 +11,7 @@
   body{
     display: grid;
     place-items: center;
+    background-color:#808080;
   }
   main{
     background: url(/images/background.svg);
