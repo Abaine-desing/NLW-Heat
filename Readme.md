@@ -19,7 +19,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 <br>
 
-<img src="/images/projeto_exemplo.png" alt="image de projeto_exemplo" />
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
