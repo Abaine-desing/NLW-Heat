@@ -7,6 +7,10 @@ body {
     display: grid;
     place-items: center;
 }
+main{
+    background-image: url(/images/background.svg) ;
+    width: 375px;
+}
 
 h1 {
 font-size: 1.5rem;
