@@ -28,4 +28,9 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 
 ---
 
+# ⚠️ License
+
+This project has an MIT License.
+For more details see the file 🧾 [LICENSE](link aqui license!!!).
+
 

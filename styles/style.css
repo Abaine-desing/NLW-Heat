@@ -13,7 +13,8 @@
         -webkit-font-smoothing: antialiased;
 
         /* Background gradient: */
-        background: linear-gradient(to right, rgb(223, 22, 172), orange);
+
+       /* background: linear-gradient(to right, rgb(223, 22, 172), orange);*/
       }
 
       body {
@@ -22,11 +23,11 @@
       }
 
       main {
-        background: url(images/background_vetor.svg) no-repeat center/cover;
+        background: url(/images/background.svg) no-repeat center/cover;
         background-color: #13111b;
         width: 100vw;
         min-height: 812px;
-        height: 100vw;
+        height: 100vh;
       }
 
       .container {
@@ -67,7 +68,7 @@
 
       h1 {
         font-size: 1.5rem;
-        color: #5a4b68;
+        color: #66616b;
         margin-top: 1.5rem;
       }
 
@@ -113,7 +114,7 @@
       li a:hover {
         width: 45px;
         height: 45px;
-        border: 1px;
+        border: 5px;
         border-style: solid;
         border-color: #13111b;
         transition: 0.2s;
