@@ -100,7 +100,7 @@
         /* Alinhamento central do flex */
         justify-content: center;
       }
-
+        /* Cor do corpo dos botoes */
       li a {
         background: #201b2c;
         width: 40px;
@@ -110,14 +110,14 @@
         border-color: #5a4b67;
         border-radius: 15%;
       }
-
+        /* Cor da borda dos botoes */ 
       li a:hover {
         width: 45px;
         height: 45px;
-        border: 5px;
+        border: 3px;
         border-style: solid;
-        border-color: #13111b;
+        border-color: #ee3b0e;
         transition: 0.2s;
-        border-bottom-color: #f35653;
+        border-bottom-color: #ee3b0e;
         border-radius: 15%;
       }
