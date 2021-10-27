@@ -20,14 +20,40 @@
       body {
         display: grid;
         place-items: center;
+        
+
+        background: radial-gradient(ellipse at bottom, #ee3b0e 0%, #050505 65%);
+        background-size: 300% 300%;
+        animation: colors 15s ease infinite;
+
+      }
+
+      @keyframes colors{
+
+        0% {
+
+          background-position: 0% 50%
+            
+        }
+
+        50% {
+
+          background-position: 100% 50%;
+
+        }
+
+        100% {
+
+          background-position: 0% 50%;
+
+        }
+
       }
 
       main {
         background: url(/images/background.svg) no-repeat center/cover;
-        background-color: #13111b;
-        width: 100vw;
-        min-height: 812px;
-        height: 100vh;
+        width: 358px;
+        height: 750px;
       }
 
       .container {
@@ -121,3 +147,133 @@
         border-bottom-color: #ee3b0e;
         border-radius: 15%;
       }
+
+      li a img:hover {
+
+        width: 25px;
+
+      }
+
+      #logoDowhile2021 {
+
+        margin-top: 4rem;
+        width: 200px;
+
+      }
+
+      @media only screen and (max-width: 780px) {
+
+       body {
+
+         background: none;
+         background-color: none;
+
+       }
+
+       main {
+
+         background: url(/images/background_container_mobile.svg) no-repeat center/cover;
+         width: 100vw;
+         min-height: 812px;
+         height: 100vh;
+         transition: 0,5s;
+
+       }
+
+       .container {
+
+         margin-top: 0px;
+
+       }
+
+       .avater {
+         
+        width:10rem;
+        margin:3rem auto 0;
+        position: relative;
+
+       }
+
+       ul {
+
+        margin-top:3.5rem;
+
+       }
+    }
+
+    @media only screen and (max-width: 425px) {
+      body {
+
+        background: none;
+        background-color: none;
+
+      }
+
+      main {
+
+        background: url(/images/background_container_mobile.svg) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px;
+        height: 100vh;
+        transition: 0,5s;
+
+      }
+
+      .container {
+
+        margin-top: 0px;
+
+      }
+
+      .avatar {
+
+        width:  10rem;
+        margin: 10.5rem auto 0;
+        position: relative;
+
+      }
+
+      ul {
+
+        margin-top: 3.5rem;
+
+      }
+
+    }
+
+    @media only screen and (max-width: 375px) {
+       body {
+
+         background: none;
+         background-color: none;
+
+       }
+
+       main {
+
+        background: url(/images/background_container_mobile.svg) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px;
+        height: 100vh;
+        transition: 0,5s;
+
+      }
+
+      .container {
+
+        margin-top: 0px;
+      }
+
+      .avatar {
+
+        width:  10rem;
+        margin: 11.5rem auto 0;
+        position: relative;
+
+      }
+
+      ul {
+        margin-top: 3.5rem;
+      }
+
+    }
