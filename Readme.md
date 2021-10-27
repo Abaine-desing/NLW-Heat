@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Nlw origin-2021 criando um crachá virtual 
-<a href="https://nlw-heat-zeta.vercel.app/" target="_blank">
+<a href="https://nlw-heat-ten.vercel.app/" target="_blank">
 Meu crachá virtual 
 </a>
 
