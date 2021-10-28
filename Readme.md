@@ -1,7 +1,7 @@
 
 
 
-##  Tecnologias
+## 📚 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Nlw origin-2021 criando um crachá virtual 
-<a href="https://nlw-heat-ten.vercel.app/" target="_blank">
+<a href="https://nlw-heat-pc2yw2uiu-abaine-desing.vercel.app/" target="_blank">
 Meu crachá virtual 
 </a>
 
@@ -21,10 +21,10 @@ Meu crachá virtual
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1031698737363668691). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
-
-<img src="/images/projeto_exemplo.png" alt="image de projeto_exemplo" />
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+## 💻 Mobile version
+<img src="/images/mobile_versão.png" alt="Mobile version" />
+## 💻 Desktop version
+<img src="/images/pc_versão.png" alt=" Desktop version" />
 
 ---
 
