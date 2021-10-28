@@ -13,9 +13,7 @@ html, body {
 body {
   display: grid;
   place-items: center;
-  /*background: url(images/background.svg) no-repeat top;
-  background-color: #191621;*/
-
+  
   background: radial-gradient(ellipse at bottom, #d80808 0%, #3c13af 65%);
   background-size: 300% 300%;
   animation: colors 15s ease infinite;
